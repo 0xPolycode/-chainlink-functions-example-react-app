@@ -5,7 +5,7 @@ The app runs on the Ethereum Sepolia test network.
 
 ## Live demo
 
-App live demo is accessible [here]().
+App live demo is accessible [here](https://chainlink-functions-example-react-app-v1.vercel.app/).
 
 ## Installation
 Clone the github repository and install the required npm packages:
