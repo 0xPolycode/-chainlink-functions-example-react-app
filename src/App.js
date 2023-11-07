@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import { Dev3SDK, FunctionsOracleRegistry } from 'dev3-sdk';
+import { PolycodeSDK, FunctionsOracleRegistry } from 'polycode-sdk';
 
-const sdk = new Dev3SDK(
+const sdk = new PolycodeSDK(
   "cULb/.NGU7SYhiDF5VlQA0bKK07bV83RMNEj+XcD5KGVu",
   "3141e2b5-7849-47c9-8e0e-7222348f1935"
 );
