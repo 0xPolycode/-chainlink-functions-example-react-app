@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './App.css';
 import { PolycodeSDK, FunctionsOracleRegistry } from 'polycode-sdk';
 
+// Intialize SDK with an API key to use other features such as Chainlink functions
 new PolycodeSDK(
   "cULb/.NGU7SYhiDF5VlQA0bKK07bV83RMNEj+XcD5KGVu",
   "3141e2b5-7849-47c9-8e0e-7222348f1935"
